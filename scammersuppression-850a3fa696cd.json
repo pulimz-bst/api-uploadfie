@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "scammersuppression",
+  "private_key_id": "850a3fa696cdea1317836c5784a90b1855cd2a04",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCyrFnmzGHFpYHV\nqkAbNN4NIRxmAZfi6DxX9clYwJd1UqF6QicSdSGPrESof8lEr08Up1gK1gl515AD\nwfquHGoBYS/Y1xD4qxSOp0BCkhVgYb3t8VtFoLqz/hJyQ4c/+ZwH4cGtm4Wykaqz\nMNsJDGT0iExcSxjLac3e8t7whSnVPl1mJYk/wjJVcqixZhIbW2pips/N2at8+hWc\nnR3JWEkEx3Bj/Tr78aGkB9cMhZr7dALonYowHroXSUbjcxdqMO6XHRqj17eIr/Y6\nMba8FQhO7noQmL87byFknOpiBIBj+dLRLB1iPrPIPRg/p/conCYeZ82hjCLSb25/\nflt2vKNhAgMBAAECggEABX5rbr9wz64av4ZCPZvq6nouyHuqzwsvRNCdyez1E0JQ\nzQSw9R41I5jrTQeN2Z7u1m6dVEr3xF9ykg0CP12IDGYPvbICN3UyNv8xSIK7pcin\nmYQC95F9QCjTKiCFrXvINo1UYllOe3rDZgpd58mx5nt05p8YAnQsxHrRDFH54vDA\nXLIPPKBFKzdl7nFKDHVzrNpn4+r2MHbI5BNUPGLTJ7c5moRMCZVWtMGXFByXeJbZ\nEbC7qiVs/5/p4esmX6Ne+cQiUUqR0hWcfNWTA9dpEuix9vqfoGp3GTWDslCmyVFF\nra8w3BrBKDzatXxMzm83SjgdV/Rz8x1Qt/eCBtscGQKBgQDu0NmK3dlc84EMM4pQ\ngXCyuw5sSFvBVCP5glTco7caCdz670krSFOS0XU5rC7H4RryR557OfLROcgmpcJc\nCsepWGixNpGzJp2r2crLLXBqzHy8tDofmZngJCG1ws9n8ng/4Gp3vfcJHgBXywMC\n9v8mwE7Q1cykJQAgpEcrRIEeOQKBgQC/h6JbcmhoMa0eTGFe9JthVyMqAs2aMp8m\n5yMKQSxt4BQB+mzA78U2dm5+Od9NSq12YeopvA4yIPUgtPnio412VAR7yyNaWm0N\nChY8000kxAqx8+qPTXegCGUc2v+pnxcFM7DjXHTcAT3q9Gm3bGHI3C4pzn1FmLWo\nTd8abSEuaQKBgDvOGWxpOjHI2RxRG+YlRC++IFKFnFTB2XB2bwICDax7o9dDbTNl\nnWg7A/w5Xk231aOuw8VgMaqrqa/j+tRJ7s490ZnvbHVMyldq5xoSewCDzQkEqTmY\noaw74CVAb+g8FFkKvh7Wd7LUzIkv0cVATY1Kw3IQ2HqSuYFzIk93jE4hAoGAaC4e\n4h8ZK5PZ1uE1FbF30zrSpcdgjr96Um7nYGyS/jEksO7GuSuy2i0RbReNnz0/nWUl\nOg5QqnPC4keOpPjRuct5pNyaHkuRhcY20l8dVyJLrwA+VjSNHT9zwH5fEqS2oN29\nGe7wobsLMwI/fsY1akxZz+PBwFmQdjvlXzp9EgECgYAzCmUp+0iXIOF7RqW3Z0LP\nxQnI02BIB4juS+763sg0I03S+VNNEXIeH50HqMV2PrlM2bim5Hmng18xYolqSzLJ\ne/NbZtUJbNk0j1TS1GFAmiKHUnboLON6wVrIzP/QoY2YluuagCxwZYRauCyM60xS\nSeshyR7M17XF07tvtBZKIQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mysql-for-docker@scammersuppression.iam.gserviceaccount.com",
+  "client_id": "101495693722495732505",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mysql-for-docker%40scammersuppression.iam.gserviceaccount.com"
+}

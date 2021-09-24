@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "scammersuppression",
+    "private_key_id": "f90e353e53812b34a09e88ac1001f79a947dc805",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCwrqbHKVm/7p8x\nJpiS85O+KceqGVeGywIB8JYc1/m4ClhLrrpRe5QIXgbFnNR31hQCMBHvZnzwizlS\nAst2jmZuMKpqRVfJRdsxCGUzHA2lA3DUAE2yGpP70/eDOVLYvYpztbzok81FppYY\ndySJH7g0iUgZYuvB65wWG8BvZRgW0fk+0udnM//4rvVu5F6y5skJeNOC2VSbqfq0\nCUh9wUHR6H/jsWJBbKz/XSJdYI7+kpfDcN/vJJDaJYf+KZS6jTTlJc8Lv3r/0KJV\njb2fBFwmSyrNACQfghPs4E+CNDubHfmNaQ0wDwtETucMYTpPHCSawixzcNKgpbuD\nkDPU5Fm/AgMBAAECggEABct8qdyX1n03mG+ZIny9tEd/hns1TTT8WF7xNXn59UjV\nk4nkD4cbmFipJTMbHuEVH+s+s1jrsSIH28I+tSE/h86t0DV9Bxt08HtDgnUhl29w\n9GscIULQ5roRjKrFJlm1IE1uKDysx2OK2buSpbK2Inb8N+TwMZiOMoVvftfUfe8Q\nGRthgJi2lnP6E1Gwrb9hjLmM0Ms8jMvzh9KBNg68KhVEXiyZyj/bYP+EX786ilbb\n1QhkU3ruIjq3jzfjKrA4Nb2x1l1ODUMha+yJTYA+ziymL1d/ienN5e3hGneg43k+\ntgCzBEa1cJHHv/rAwYGz94+uuCWQomvDqh6uq6VukQKBgQDo2GXB3QVwUU6U8qRi\nsxcfiJO6WXWvo//5XeO7SjELUb20x/fzWlqxLo+V4qOc9mhbi9Bn03f49pSZgtbW\n3YCSMojo8CKXU+FcGCAFM/UVQtR0pgPsGS8nomCH3hz4ow2y8XBUicAT7Apf+00L\n89jREoITJBoSolYi3iltyDvNjwKBgQDCQH8Oy3strSUfXQPH5sspGpQMMtntQXHf\nEDt2Jg1bnwWFj/ebOYcZyTFtXRIQ3rsoCw7FLezVNIK5fbYkZbosM08ebxVOjbjD\n8NqbptdDvfQUD8yI18aHkPjHa8opxIm7tk2EMKxA2rZ3QV9c88WufcCDFrvUihV3\nboQJeqH40QKBgQClr2YpHscB9zk9j7MdcGZhz+Oe1I2Dn+VDYmXsHYzsiwu8mhZ7\nma2zKniNpSnbRRNZIRH472cNRxjSa2HInvEgFsmJR2a128AesiQGz8PzjwxyvLdJ\nx1ngkBC0XX6sBgp3bIoL/cEp6+ouBjn66Vc83jikuim7XLyCLye3sKWtTQKBgQC5\nBOGAYAOlT+Op6dhuEL+1GOGmdNDpkIo7YqSgNkJG4EJMIwI+UR8DSoTPm/RXKS6u\nR0n8OW/46xkQQFK6fEJFU2GqpTdwKMCxsLknxFQI6+aNLTctqAgqm8S5fUuDWPWv\nW0aeABYxd6CQGi4QxQem2ZQByCeDmzozFYqh1LJt4QKBgQDKFRy/Z8GG+yiZQTil\nDKWxXVzFa195Rkt/U4H1ak1Szwva3UWYnv6BYrugaQXvuVfY+5HA78g1ZpOShF6m\nTGpOv8a3PNiIdbAgFBn8SJGclLI5m85gb1i+8kB6AKHY0w2k5K1/9T30WrwfOrh2\nyYXXuJfPxegAcQ3KTPD4sE9JYg==\n-----END PRIVATE KEY-----\n",
+    "client_email": "api-upload-gs@scammersuppression.iam.gserviceaccount.com",
+    "client_id": "110041455346346482670",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/api-upload-gs%40scammersuppression.iam.gserviceaccount.com"
+}
